@@ -9,10 +9,10 @@ This repository is part of my GitHub presence where I’ll share tools, small pr
 ## 🌐 Learn More
 
 - **Website:** [mikesmith.me](https://mikesmith.me)  
-- **Twitter (X):** [twitter.com/mikesmith](twitter.com/mikesmith) 
-- **Instagram:** [instagram.com/mikesmith](instagram.com/mikesmith)
-- **LinkedIn:** [linkedin.com/in/mikesmith](linkedin.com/in/mikesmith)  
-- **Email:** contact@mikesmith.me
+- **Twitter (X):** [https://x.com/mrmikesmith](https://x.com/mrmikesmith)
+- **Instagram:** [https://instagram.com/smitpix](https://instagram.com/smitpix)
+- **LinkedIn:** [https://www.linkedin.com/in/masmith1/](https://www.linkedin.com/in/masmith1/)
+- **Email:** mike@mikesmith.me
 
 ---
 
